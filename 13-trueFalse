@@ -1,0 +1,19 @@
+//boolean
+
+const usuarioLogado = true;
+const contaPaga = false;
+
+
+// 0 = false zero é um valor que o JS considera como zero. 
+// 1 = true 
+
+console.log( 0 == false);
+console.log( '' == false);
+
+// null = vazio
+
+let numero = 3;
+let texto = "alura";
+
+console.log( typeof numero);
+console.log( typeof texto);
